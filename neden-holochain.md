@@ -1,14 +1,14 @@
-# Why Holochain?
+# Neden Holochain?
 
 <div class="coreconcepts-intro" markdown=1>
-Building with Holochain means you can design completely serverless applications that run on the devices of the users themselves. You get the performance and integrity of server-based applications with the resilience and user empowerment of distributed applications.
+Holochain ile uygulama geliştirmek, kullanıcıların cihazlarında çalışan ve tamamen sunucusuz uygulamalar tasarlayabileceğiniz anlamına gelir. Dağıtılmış uygulamaların esnekliği ve kullanıcı yetkilendirmesi ile sunucu tabanlı uygulamaların performansını ve bütünlüğünü elde edersiniz.
 </div>
 
 <div class="heading-tile" style="background-image:url(../img/tile-1.jpg);" markdown=1>
 ## For client/server folks
 </div>
 
-### Scalable
+### Ölçeklendirilebilir
 
 Performance scales linearly with new users, because everyone contributes useful computation and storage resources. Your app builds its own infrastructure with each new install. Capacity lives at the edges of the network, right where it’s most useful and accessible—the users’ own devices.
 
